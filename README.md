@@ -1,5 +1,5 @@
 # EOS Airdrops
-List of all EOS Airdrop Symbols and Accounts
+List of all EOS Airdrop Symbols and Accounts on Mainnet
 
 EOSDAC - eosdactokens  
 ADD - eosadddddddd  
