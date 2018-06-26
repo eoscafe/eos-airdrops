@@ -4,3 +4,4 @@ List of all EOS Airdrop Symbols and Accounts
 EOSDAC - eosdactokens  
 ADD - eosadddddddd  
 CETOS -  gyztomjugage  
+EOX - eoxeoxeoxeox
