@@ -6,3 +6,4 @@ EOSDAC - eosdactokens
 ADD - eosadddddddd  
 CETOS -  gyztomjugage  
 EOX - eoxeoxeoxeox
+EDNA - ednazztokens
