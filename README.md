@@ -14,4 +14,4 @@
 | HORUS         | horustokenio  |
 | KARMA         | therealkarma  |
 
-For more useful content, please continue to vote for EOS Cafe Calgary (**eoscafeblock**)
+For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
