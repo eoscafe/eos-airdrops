@@ -6,9 +6,9 @@ EOSDAC - eosdactokens
 ADD - eosadddddddd  
 CETOS -  gyztomjugage  
 EOX - eoxeoxeoxeox  
-EDNA - ednazztokens
-ATD - eosatidiumio
-CET - eosiochaince
-EVR - eosvrairdrop
-HORUS - horustokenio
-KARMA - therealkarma
+EDNA - ednazztokens  
+ATD - eosatidiumio  
+CET - eosiochaince  
+EVR - eosvrairdrop  
+HORUS - horustokenio  
+KARMA - therealkarma  
