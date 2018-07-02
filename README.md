@@ -1,5 +1,5 @@
 # EOS Airdrops
-List of all mainnet airdrops in format <symbol> - <contract name>
+List of all mainnet airdrops in format `<symbol> - <contract name>`
 
 EOS - eosio.token  
 EOSDAC - eosdactokens  
