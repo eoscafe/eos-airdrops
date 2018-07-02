@@ -10,7 +10,6 @@
 | EDNA          | ednazztokens  |
 | ATD           | eosatidiumio  |
 | CET           | eosiochaince  |
-| EVR           | eosvrairdrop  |
 | HORUS         | horustokenio  |
 | KARMA         | therealkarma  |
 
