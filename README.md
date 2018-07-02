@@ -1,7 +1,8 @@
 # EOS Airdrops
 List of all mainnet airdrops  
 
-`<symbol> - <contract name>`  
+`<symbol> - <contract name>`   
+
 EOS - eosio.token  
 EOSDAC - eosdactokens  
 ADD - eosadddddddd  
