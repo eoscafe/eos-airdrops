@@ -12,5 +12,7 @@
 | CET           | eosiochaince  |
 | HORUS         | horustokenio  |
 | KARMA         | therealkarma  |
+| EVR           | eosvrtokenss  |
+| ESB           | esbcointoken  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
