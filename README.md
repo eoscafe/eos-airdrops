@@ -14,5 +14,6 @@
 | KARMA         | therealkarma  |
 | EVR           | eosvrtokenss  |
 | ESB           | esbcointoken  |
+| WIZZ          | wizznetwork1  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
