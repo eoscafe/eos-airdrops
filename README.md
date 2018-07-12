@@ -2,18 +2,21 @@
 
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
-| EOS           | eosio.token   |
-| EOSDAC        | eosdactokens  |
 | ADD           | eosadddddddd  |
-| CETOS         | gyztomjugage  |
-| EOX           | eoxeoxeoxeox  |
-| EDNA          | ednazztokens  |
 | ATD           | eosatidiumio  |
 | CET           | eosiochaince  |
-| HORUS         | horustokenio  |
-| KARMA         | therealkarma  |
-| EVR           | eosvrtokenss  |
+| CETOS         | gyztomjugage  |
+| EDNA          | ednazztokens  |
+| EOS           | eosio.token   |
+| EOSDAC        | eosdactokens  |
+| EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
+| EVR           | eosvrtokenss  |
+| HORUS         | horustokenio  |
+| IQ            | everipediaiq  |
+| KARMA         | therealkarma  |
+| OCT           | octtothemoon  |
+| POOR          | poormantoken  |
 | WIZZ          | wizznetwork1  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
