@@ -17,6 +17,7 @@
 | KARMA         | therealkarma  |
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
+| RIDL          | ridlridlcoin  |
 | WIZZ          | wizznetwork1  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
