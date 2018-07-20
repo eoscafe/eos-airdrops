@@ -6,6 +6,7 @@
 | ATD           | eosatidiumio  |
 | CET           | eosiochaince  |
 | CETOS         | gyztomjugage  |
+| CHL           | challengedac  |
 | EDNA          | ednazztokens  |
 | EOS           | eosio.token   |
 | EOSDAC        | eosdactokens  |
@@ -14,6 +15,7 @@
 | EVR           | eosvrtokenss  |
 | HORUS         | horustokenio  |
 | IQ            | everipediaiq  |
+| IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
