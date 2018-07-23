@@ -4,6 +4,7 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ATD           | eosatidiumio  |
+| BLACK         | eosblackteam  |
 | CET           | eosiochaince  |
 | CETOS         | gyztomjugage  |
 | CHL           | challengedac  |
