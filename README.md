@@ -6,7 +6,7 @@
 | ATD           | eosatidiumio  ||
 | BLACK         | eosblackteam  ||
 | CET           | eosiochaince  ||
-| ~~CETOS         | gyztomjugage~~  |Hello world abi| 
+| ~~CETOS~~         | ~~gyztomjugage~~  |Hello world abi| 
 | CHL           | challengedac  ||
 | EDNA          | ednazztokens  ||
 | EOS           | eosio.token   ||
