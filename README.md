@@ -15,6 +15,7 @@
 | ESB           | esbcointoken  ||
 | EVR           | eosvrtokenss  ||
 | HORUS         | horustokenio  ||
+| IPOS          | oo1122334455  ||
 | IQ            | everipediaiq  ||
 | IRESPO        | irespotokens  ||
 | KARMA         | therealkarma  ||
