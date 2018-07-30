@@ -9,6 +9,7 @@
 | CETOS         | gyztomjugage  |
 | CHL           | challengedac  |
 | EDNA          | ednazztokens  |
+| EETH          | ethsidechain  |
 | EOS           | eosio.token   |
 | EOSDAC        | eosdactokens  |
 | EOX           | eoxeoxeoxeox  |
