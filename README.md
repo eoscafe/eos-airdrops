@@ -9,12 +9,14 @@
 | CETOS         | gyztomjugage  |
 | CHL           | challengedac  |
 | EDNA          | ednazztokens  |
+| EETH          | ethsidechain  |
 | EOS           | eosio.token   |
 | EOSDAC        | eosdactokens  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | EVR           | eosvrtokenss  |
 | HORUS         | horustokenio  |
+| IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
