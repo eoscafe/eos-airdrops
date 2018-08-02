@@ -6,7 +6,6 @@
 | ATD           | eosatidiumio  |
 | BLACK         | eosblackteam  |
 | CET           | eosiochaince  |
-| CETOS         | gyztomjugage  |
 | CHL           | challengedac  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
