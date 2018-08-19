@@ -20,7 +20,7 @@
 | KARMA         | therealkarma  |
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
-| POS           | cryptopesosc  |
+| PSO           | cryptopesosc  |
 | RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
