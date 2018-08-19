@@ -26,4 +26,4 @@
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
-Thanks to EOS Tribe for procuring logos! When submitting logos, please submit .svg so that everything is crisp.
+Thanks to EOS Tribe for procuring logos!
