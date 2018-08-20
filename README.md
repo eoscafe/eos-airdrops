@@ -5,6 +5,7 @@
 | ADD           | eosadddddddd  |
 | ATD           | eosatidiumio  |
 | BLACK         | eosblackteam  |
+| BOID          | boidcomtoken  |
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
 | EDNA          | ednazztokens  |
