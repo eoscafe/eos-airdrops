@@ -4,6 +4,7 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ATD           | eosatidiumio  |
+| BET           | eosbetdice11  |
 | BLACK         | eosblackteam  |
 | BOID          | boidcomtoken  |
 | CET           | eosiochaince  |
