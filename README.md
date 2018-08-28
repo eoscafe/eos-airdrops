@@ -9,6 +9,7 @@
 | BOID          | boidcomtoken  |
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
+| DAB           | eoscafekorea  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | EOSDAC        | eosdactokens  |
