@@ -24,6 +24,7 @@
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
+| PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
