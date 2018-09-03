@@ -11,6 +11,7 @@
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
 | DAB           | eoscafekorea  |
+| ECASH         | horustokenio  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | EOSDAC        | eosdactokens  |
