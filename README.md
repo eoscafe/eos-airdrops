@@ -25,9 +25,9 @@
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | OCT           | octtothemoon  |
+| POLLEN        | honeydacserv  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
-| POLLEN        | honeydacserv  |
 | PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
