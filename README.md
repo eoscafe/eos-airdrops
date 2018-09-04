@@ -17,6 +17,8 @@
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | EVR           | eosvrtokenss  |
+| HARVEST       | honeydacserv  |
+| HONEY         | honeydacserv  |
 | HORUS         | horustokenio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
@@ -25,6 +27,7 @@
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
+| POLLEN        | honeydacserv  |
 | PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
