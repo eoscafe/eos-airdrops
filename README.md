@@ -30,6 +30,7 @@
 | RIDL          | ridlridlcoin  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
+| WECASH        | weosservices  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
