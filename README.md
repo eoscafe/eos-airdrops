@@ -4,6 +4,7 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ATD           | eosatidiumio  |
+| ATMOS         | novusphereio  |
 | BEAN          | thebeantoken  |
 | BET           | betdividends  |
 | BLACK         | eosblackteam  |
