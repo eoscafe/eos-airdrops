@@ -31,6 +31,7 @@
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
+| DICE          | betdicetoken  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
