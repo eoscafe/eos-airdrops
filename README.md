@@ -4,6 +4,7 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ATD           | eosatidiumio  |
+| ATMOS         | novusphereio  |
 | BEAN          | thebeantoken  |
 | BET           | betdividends  |
 | BLACK         | eosblackteam  |
@@ -12,6 +13,7 @@
 | CHL           | challengedac  |
 | DAB           | eoscafekorea  |
 | DEOS          | thedeosgames  |
+| DICE          | betdicetoken  |
 | ECASH         | horustokenio  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
