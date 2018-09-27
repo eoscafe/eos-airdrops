@@ -12,6 +12,7 @@
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
 | DAB           | eoscafekorea  |
+| DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
 | ECASH         | horustokenio  |
 | EDNA          | ednazztokens  |
