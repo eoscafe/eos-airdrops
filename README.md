@@ -21,15 +21,12 @@
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | EVR           | eosvrtokenss  |
-| HARVEST       | honeydacserv  |
-| HONEY         | honeydacserv  |
 | HORUS         | horustokenio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | OCT           | octtothemoon  |
-| POLLEN        | honeydacserv  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
