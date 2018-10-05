@@ -34,6 +34,7 @@
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
+| ZKS           | zkstokensr4u  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
