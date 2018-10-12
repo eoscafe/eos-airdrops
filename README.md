@@ -25,6 +25,7 @@
 | ETH           | grandpacoins  |
 | EVR           | eosvrtokenss  |
 | HORUS         | horustokenio  |
+| INF           | infinicoinio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
