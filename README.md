@@ -39,6 +39,7 @@
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
 | ZKS           | zkstokensr4u  |
+| ADE           | buildertoken  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
