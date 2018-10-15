@@ -40,7 +40,7 @@
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
 | ZKS           | zkstokensr4u  |
-
+| WIZBOX        | wizboxairdro  |
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
 Thanks to EOS Tribe for procuring logos!
