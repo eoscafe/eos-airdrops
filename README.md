@@ -31,6 +31,7 @@
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
+| LLG           | therealkarma  |
 | OCT           | octtothemoon  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
