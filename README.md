@@ -37,6 +37,7 @@
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
+| SEED          | parslseed123  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
