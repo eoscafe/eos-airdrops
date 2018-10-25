@@ -33,6 +33,7 @@
 | KARMA         | therealkarma  |
 | LLG           | llgonebtotal  |
 | OCT           | octtothemoon  |
+| POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
