@@ -6,7 +6,6 @@
 | ADE           | buildertoken  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
-| BEAN          | thebeantoken  |
 | BET           | betdividends  |
 | BLACK         | eosblackteam  |
 | BOID          | boidcomtoken  |
@@ -39,7 +38,6 @@
 | PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
 | SEED          | parslseed123  |
-| SGB           | sendgoldbeta  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
