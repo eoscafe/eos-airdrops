@@ -24,6 +24,7 @@
 | ESB           | esbcointoken  |
 | ETH           | grandpacoins  |
 | EVR           | eosvrtokenss  |
+| HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
 | IPOS          | oo1122334455  |
