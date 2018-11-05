@@ -38,6 +38,7 @@
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
+| RAM           | ramtokenmoon  |
 | RIDL          | ridlridlcoin  |
 | SEED          | parslseed123  |
 | SNEB          | nebulatokenn  |
