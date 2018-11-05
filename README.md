@@ -32,6 +32,7 @@
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | LLG           | llgonebtotal  |
+| NEB           | nebulatokenn  |
 | OCT           | octtothemoon  |
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
@@ -39,6 +40,7 @@
 | PUB           | publytoken11  |
 | RIDL          | ridlridlcoin  |
 | SEED          | parslseed123  |
+| SNEB          | nebulatokenn  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
