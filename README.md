@@ -33,6 +33,7 @@
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | LLG           | llgonebtotal  |
+| MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
 | OCT           | octtothemoon  |
 | POKER         | eospokercoin  |
