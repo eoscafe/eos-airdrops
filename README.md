@@ -33,6 +33,7 @@
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
+| LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
