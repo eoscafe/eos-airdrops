@@ -24,6 +24,7 @@
 | ESB           | esbcointoken  |
 | ETH           | grandpacoins  |
 | EVR           | eosvrtokenss  |
+| FAIR          | faireostoken  |
 | FAST          | fastwinadmin  |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
