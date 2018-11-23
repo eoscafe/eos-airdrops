@@ -46,6 +46,7 @@
 | RIDL          | ridlridlcoin  |
 | SEED          | parslseed123  |
 | SNEB          | nebulatokenn  |
+| TOOK          | taketooktook  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
