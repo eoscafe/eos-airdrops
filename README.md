@@ -12,6 +12,7 @@
 | BTC           | grandpacoins  |
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
+| CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
