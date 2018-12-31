@@ -26,7 +26,7 @@
 | ETH           | grandpacoins  |
 | EVR           | eosvrtokenss  |
 | FAIR          | faireostoken  |
-| FAST          | fastwinadmin  |
+| FAST          | fastecoadmin  |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
