@@ -7,6 +7,7 @@
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BET           | betdividends  |
+| BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
