@@ -40,6 +40,7 @@
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
 | OCT           | octtothemoon  |
+| ONE           | oneplaytoken  |
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
