@@ -28,6 +28,7 @@
 | EVR           | eosvrtokenss  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
+| FYRE          | uxfyretoken1  |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
