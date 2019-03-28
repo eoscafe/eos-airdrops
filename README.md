@@ -48,6 +48,7 @@
 | PUB           | publytoken11  |
 | RAM           | ramtokenmoon  |
 | RIDL          | ridlridlcoin  |
+| ROJI          | rojirojiroji  |
 | SEED          | parslseed123  |
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
