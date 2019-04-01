@@ -49,6 +49,7 @@
 | RIDL          | ridlridlcoin  |
 | SEED          | parslseed123  |
 | SNEB          | nebulatokenn  |
+| SHC           | sprtshubcoin  |
 | TOOK          | taketooktook  |
 | TRYBE         | trybenetwork  |
 | WIZZ          | wizznetwork1  |
