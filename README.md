@@ -4,6 +4,7 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ADE           | buildertoken  |
+| ANX           | anoxanoxanox  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BET           | betdividends  |
