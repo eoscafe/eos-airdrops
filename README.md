@@ -4,6 +4,8 @@
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ADE           | buildertoken  |
+| ANTE          | eosnowbpower  |
+| ANX           | anoxanoxanox  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BET           | betdividends  |
@@ -28,6 +30,7 @@
 | EVR           | eosvrtokenss  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
+| FYRE          | uxfyretoken1  |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
@@ -47,6 +50,7 @@
 | PUB           | publytoken11  |
 | RAM           | ramtokenmoon  |
 | RIDL          | ridlridlcoin  |
+| ROJI          | rojirojiroji  |
 | SEED          | parslseed123  |
 | SNEB          | nebulatokenn  |
 | SHC           | sprtshubcoin  |
