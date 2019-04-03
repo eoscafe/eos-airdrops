@@ -13,6 +13,7 @@
 | BLACK         | eosblackteam  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
+| CARMEL        | carmeltokens  |
 | CET           | eosiochaince  |
 | CHL           | challengedac  |
 | CUSD          | stablecarbon  |
