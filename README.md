@@ -56,6 +56,7 @@
 | SHC           | sprtshubcoin  |
 | TOOK          | taketooktook  |
 | TRYBE         | trybenetwork  |
+| VOID          | onessusblock  |
 | WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
 | ZKS           | zkstokensr4u  |
