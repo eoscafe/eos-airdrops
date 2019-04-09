@@ -54,12 +54,13 @@
 | ROCKET        | rocketbattle  |
 | ROJI          | rojirojiroji  |
 | SEED          | parslseed123  |
-| SNEB          | nebulatokenn  |
 | SHC           | sprtshubcoin  |
+| SLT           | parslseed123  |
+| SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
 | TRYBE         | trybenetwork  |
-| WIZZ          | wizznetwork1  |
 | WECASH        | weosservices  |
+| WIZZ          | wizznetwork1  |
 | ZKS           | zkstokensr4u  |
 
 For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
