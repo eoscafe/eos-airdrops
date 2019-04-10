@@ -55,7 +55,7 @@
 | ROJI          | rojirojiroji  |
 | SEED          | parslseed123  |
 | SHC           | sprtshubcoin  |
-| SLT           | parslseed123  |
+| SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
 | TRYBE         | trybenetwork  |
