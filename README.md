@@ -18,6 +18,7 @@
 | CHL           | challengedac  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
+| DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
 | DOGE          | grandpacoins  |
