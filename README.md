@@ -42,6 +42,7 @@
 | KARMA         | therealkarma  |
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
+| MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
 | OCT           | octtothemoon  |
