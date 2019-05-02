@@ -25,6 +25,7 @@
 | ECASH         | horustokenio  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
+| EFX           | effecttokens  |
 | EOSDAC        | eosdactokens  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
@@ -45,6 +46,7 @@
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
+| NFX           | effecttokens  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
 | POKER         | eospokercoin  |
