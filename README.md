@@ -15,6 +15,7 @@
 | BTC           | grandpacoins  |
 | CARMEL        | carmeltokens  |
 | CET           | eosiochaince  |
+| CHEX          | chexchexchex  |
 | CHL           | challengedac  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
