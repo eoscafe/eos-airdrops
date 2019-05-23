@@ -13,6 +13,7 @@
 | BLACK         | eosblackteam  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
+| BTC           | eosbettokens  |
 | CARMEL        | carmeltokens  |
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
@@ -44,6 +45,7 @@
 | KARMA         | therealkarma  |
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
+| LTC           | eosbettokens  |
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
