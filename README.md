@@ -41,8 +41,9 @@
 | INF           | infinicoinio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
-| IRESPO        | irespotokens  |
+| IRESPO        | irespotokens  |               
 | KARMA         | therealkarma  |
+| KROWN         | krowntoken    |
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
 | LTC           | eosbettokens  |
