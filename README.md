@@ -47,6 +47,7 @@
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
 | LTC           | eosbettokens  |
+| LUME          | lumetokenctr  |
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
