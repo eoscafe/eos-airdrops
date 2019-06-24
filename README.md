@@ -67,6 +67,7 @@
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
+| TRIV          | triviatokens  |
 | TRYBE         | trybenetwork  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
