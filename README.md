@@ -19,6 +19,7 @@
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
 | CHL           | challengedac  |
+| CTS           | cryptovgscts  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
 | DAPP          | dappservices  |
