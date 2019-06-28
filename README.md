@@ -3,7 +3,7 @@
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
-| ADE           | buildertoken  |
+| ADE           | cadeositoken  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BEAN          | thebeantoken  |
