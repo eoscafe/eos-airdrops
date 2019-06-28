@@ -3,7 +3,7 @@
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
-| ADE           | buildertoken  |
+| ADE           | cadeositoken  |
 | ANT           | antestacc111  |
 | ANTE          | eosnowbpower  |
 | ANX           | anoxanoxanox  |
