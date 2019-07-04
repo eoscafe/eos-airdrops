@@ -25,6 +25,7 @@
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
+| DIG           | digcoinsmine  |
 | DOGE          | grandpacoins  |
 | ECASH         | horustokenio  |
 | EDNA          | ednazztokens  |
@@ -43,7 +44,7 @@
 | INF           | infinicoinio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
-| IRESPO        | irespotokens  |               
+| IRESPO        | irespotokens  |
 | KARMA         | therealkarma  |
 | KROWN         | krowntoken    |
 | LKG           | luckygotoken  |
