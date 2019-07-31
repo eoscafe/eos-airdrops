@@ -1,5 +1,7 @@
 # 🚀 EOS Airdrops  🚀
 
+For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
+
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
@@ -76,7 +78,5 @@
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
 | ZKS           | zkstokensr4u  |
-
-For more useful content, please vote for EOS Cafe Calgary (**eoscafeblock**)
 
 Thanks to EOS Tribe for procuring logos!
