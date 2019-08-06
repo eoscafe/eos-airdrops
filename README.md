@@ -57,6 +57,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
 | NFX           | effecttokens  |
+| NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
 | POKER         | eospokercoin  |
