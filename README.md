@@ -11,6 +11,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ANX           | anoxanoxanox  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
+| BCH           | eosbettokens  |
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
