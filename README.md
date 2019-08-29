@@ -1,6 +1,18 @@
-# 🚀 EOS Airdrops  🚀
+# 🚀 EOSIO Coin List  🚀
 
 For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
+
+| Chain         | Name          |
+| ------------- |:-------------:|
+| Mainnet       | eos           |
+| Worbli        | worbli        |
+| Wax           | wax           |
+| BOS           | bos           |
+| Jungle        | jungle        |
+| Kylin         | kylin         |
+| Telos         | telos         |
+| MEET.ONE      | meetone       |
+| Lynx          | lynx          |
 
 | Symbol        | Contract Name |
 | ------------- |:-------------:|
