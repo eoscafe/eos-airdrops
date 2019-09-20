@@ -92,5 +92,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
 | ZKS           | zkstokensr4u  |
+| GAMBLR        | gamblrtokens  |
 
 Thanks to EOS Tribe for procuring logos!
