@@ -50,6 +50,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | ETH           | grandpacoins  |
+| ETH           | eosbettokens  |
 | EVR           | eosvrtokenss  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
