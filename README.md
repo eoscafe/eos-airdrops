@@ -27,6 +27,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
+| BNT           | bntbntbntbnt  |
+| BNTEOS        | bnt2eosrelay  |
+| BNTUSDT       | bancorr11232  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
 | BTC           | eosbettokens  |
@@ -89,6 +92,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | TOOK          | taketooktook  |
 | TRIV          | triviatokens  |
 | TRYBE         | trybenetwork  |
+| USDT          | tethertether  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
