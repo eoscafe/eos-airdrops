@@ -55,6 +55,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ETH           | grandpacoins  |
 | ETH           | eosbettokens  |
 | EVR           | eosvrtokenss  |
+| EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
 | FYRE          | uxfyretoken1  |
