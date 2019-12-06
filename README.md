@@ -87,6 +87,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | RIDL          | ridlridlcoin  |
 | ROCKET        | rocketbattle  |
 | ROJI          | rojirojiroji  |
+| ROR           | roadofrichio  |
 | SEED          | parslseed123  |
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
