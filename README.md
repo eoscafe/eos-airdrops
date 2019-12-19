@@ -55,6 +55,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ETH           | grandpacoins  |
 | ETH           | eosbettokens  |
 | EVR           | eosvrtokenss  |
+| EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
 | FYRE          | uxfyretoken1  |
@@ -64,6 +65,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
+| KARMA         | theonlykarma  |
 | KARMA         | therealkarma  |
 | KROWN         | krowntoken    |
 | LKG           | luckygotoken  |
@@ -77,6 +79,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
+| PAY           | fastecoadmin  |
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PSO           | cryptopesosc  |
@@ -85,6 +88,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | RIDL          | ridlridlcoin  |
 | ROCKET        | rocketbattle  |
 | ROJI          | rojirojiroji  |
+| ROR           | roadofrichio  |
 | SEED          | parslseed123  |
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
