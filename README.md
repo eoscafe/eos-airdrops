@@ -49,6 +49,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | EFX           | effecttokens  |
+| EIDOS         | eidosonecoin  |
 | EOSDAC        | eosdactokens  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
@@ -59,6 +60,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
 | FYRE          | uxfyretoken1  |
+| GAMBLR        | gamblrtokens  |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
@@ -101,7 +103,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
+| YAS           | yasminttoken  |
 | ZKS           | zkstokensr4u  |
-| GAMBLR        | gamblrtokens  |
 
 Thanks to EOS Tribe for procuring logos!
