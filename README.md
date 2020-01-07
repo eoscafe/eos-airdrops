@@ -46,6 +46,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DIG           | digcoinsmine  |
 | DOGE          | grandpacoins  |
 | ECASH         | horustokenio  |
+| ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | EFX           | effecttokens  |
