@@ -98,6 +98,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
 | TRIV          | triviatokens  |
+| TRO           | mytreosworld  |
 | TRYBE         | trybenetwork  |
 | USDT          | tethertether  |
 | VIG           | vig111111111  |
