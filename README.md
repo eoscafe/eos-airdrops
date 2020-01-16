@@ -40,6 +40,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CTS           | cryptovgscts  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
+| DAI           | etherctokens  |
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
