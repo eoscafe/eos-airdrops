@@ -30,6 +30,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
+| ETHBNT        | ethbntethbnt  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
 | BTC           | eosbettokens  |
