@@ -105,6 +105,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | USDB          | tethertether  |
 | USDE          | usdetotokens  |
 | USDT          | tethertether  |
+| USN           | danchortoken  |
 | VIG           | vig111111111  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
