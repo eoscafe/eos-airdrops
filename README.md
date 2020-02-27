@@ -47,6 +47,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | DOGE          | grandpacoins  |
+| EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
