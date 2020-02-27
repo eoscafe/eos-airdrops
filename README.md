@@ -81,6 +81,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
+| NFD           | nofoundation  |
 | NFX           | effecttokens  |
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
