@@ -30,6 +30,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
+| ETHBNT        | ethbntethbnt  |
 | BOID          | boidcomtoken  |
 | BTC           | grandpacoins  |
 | BTC           | eosbettokens  |
@@ -40,11 +41,13 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CTS           | cryptovgscts  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
+| DAI           | etherctokens  |
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | DOGE          | grandpacoins  |
+| EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
@@ -78,6 +81,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
 | NEB           | nebulatokenn  |
+| NFD           | nofoundation  |
 | NFX           | effecttokens  |
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
@@ -100,7 +104,10 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | TRIV          | triviatokens  |
 | TRO           | mytreosworld  |
 | TRYBE         | trybenetwork  |
+| USDB          | tethertether  |
+| USDE          | usdetotokens  |
 | USDT          | tethertether  |
+| USN           | danchortoken  |
 | VIG           | vig111111111  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
