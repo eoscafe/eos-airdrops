@@ -114,5 +114,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | WORD          | wordtokeneos  |
 | YAS           | yasminttoken  |
 | ZKS           | zkstokensr4u  |
+| GOVRN         | consortiumlv  |
 
 Thanks to EOS Tribe for procuring logos!
