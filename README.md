@@ -24,6 +24,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BCH           | eosbettokens  |
+| BG            | bgbgbgbgbgbg  |
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
