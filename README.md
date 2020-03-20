@@ -30,6 +30,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
+| BTC           | issue.newdex  |
 | ETHBNT        | ethbntethbnt  |
 | BOID          | boidcomtoken  |
 | CARMEL        | carmeltokens  |
@@ -49,6 +50,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
+| ETH           | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
 | EOSDAC        | eosdactokens  |
@@ -101,6 +103,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | USDB          | tethertether  |
 | USDE          | usdetotokens  |
 | USDT          | tethertether  |
+| USDT          | issue.newdex  |
 | USN           | danchortoken  |
 | VIG           | vig111111111  |
 | WECASH        | weosservices  |
