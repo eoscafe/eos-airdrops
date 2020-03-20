@@ -23,7 +23,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ANX           | anoxanoxanox  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
-| BCH           | eosbettokens  |
 | BG            | bgbgbgbgbgbg  |
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
@@ -33,8 +32,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BNTUSDT       | bancorr11232  |
 | ETHBNT        | ethbntethbnt  |
 | BOID          | boidcomtoken  |
-| BTC           | grandpacoins  |
-| BTC           | eosbettokens  |
 | CARMEL        | carmeltokens  |
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
@@ -47,7 +44,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DEOS          | thedeosgames  |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
-| DOGE          | grandpacoins  |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
 | ECOIN         | ecointoken12  |
@@ -58,8 +54,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOSDAC        | eosdactokens  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
-| ETH           | grandpacoins  |
-| ETH           | eosbettokens  |
 | EVR           | eosvrtokenss  |
 | EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
@@ -77,7 +71,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | KROWN         | krowntoken    |
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
-| LTC           | eosbettokens  |
 | LUME          | lumetokenctr  |
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
