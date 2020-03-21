@@ -21,6 +21,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ANT           | antestacc111  |
 | ANTE          | eosnowbpower  |
 | ANX           | anoxanoxanox  |
+| APX           | appicsappics  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
 | BG            | bgbgbgbgbgbg  |
