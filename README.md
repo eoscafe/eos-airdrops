@@ -2,6 +2,24 @@
 
 For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 
+## How to add token?
+
+1. Add metadata to [`tokens.json`](tokens.json)
+
+```json
+{
+    "name": "<NAME>",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png",
+    "symbol": "<SYMBOL>",
+    "account": "<CONTRACT NAME>",
+    "chain": "eos"
+}
+```
+
+2. Add token logo `*.png` to [`./logos`](./logos) folder
+3. Update `README.md` with **Symbol** & **Contract Name**
+
 | Chain         | Name          |
 | ------------- |:-------------:|
 | Mainnet       | eos           |
