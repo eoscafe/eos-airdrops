@@ -116,6 +116,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
+| STLCXXI       | stellarfundx  |
 | TOOK          | taketooktook  |
 | TRIV          | triviatokens  |
 | TRO           | mytreosworld  |
