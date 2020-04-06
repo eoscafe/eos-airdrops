@@ -73,6 +73,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
 | EOSDAC        | eosdactokens  |
+| EOSDT         | eosdtsttoken  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | EVR           | eosvrtokenss  |
