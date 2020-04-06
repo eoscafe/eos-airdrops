@@ -62,6 +62,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DAI           | etherctokens  |
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
+| DEFI          | defind.io     |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | EBTC          | bitpietokens  |
@@ -99,6 +100,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NEB           | nebulatokenn  |
 | NFD           | nofoundation  |
 | NFX           | effecttokens  |
+| NDX           | newdexissuer  |
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
@@ -119,6 +121,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
 | TRIV          | triviatokens  |
+| TXT           | trusteamwins  |
 | TRO           | mytreosworld  |
 | TRYBE         | trybenetwork  |
 | USDB          | tethertether  |
