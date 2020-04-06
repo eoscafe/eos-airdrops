@@ -107,6 +107,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PAY           | fastecoadmin  |
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
+| PGL           | prospectorsg  |
+| POOL          | stpool.eos    |
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
 | RAM           | ramtokenmoon  |
