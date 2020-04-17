@@ -122,7 +122,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
 | TOOK          | taketooktook  |
-| TCN           | tatchcapital  |
+| TCN           | tcapitalnote  |
 | TRIV          | triviatokens  |
 | TXT           | trusteamwins  |
 | TRO           | mytreosworld  |
