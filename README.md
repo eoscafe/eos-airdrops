@@ -81,6 +81,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
+| FASTBNT       | smarttokens1  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | HVT           | hirevibeshvt  |
