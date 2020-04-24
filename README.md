@@ -84,6 +84,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FASTBNT       | smarttokens1  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
+| GL            | token.gl      |
 | HVT           | hirevibeshvt  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
