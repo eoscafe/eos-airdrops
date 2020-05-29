@@ -144,5 +144,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ZKS           | zkstokensr4u  |
 | VII           | seventokenio  |
 | GOVRN         | consortiumlv  |
+|ISLA           | insulatoken   |
 
 Thanks to EOS Tribe for procuring logos!
