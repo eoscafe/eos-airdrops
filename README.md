@@ -56,6 +56,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
 | CHL           | challengedac  |
+| CRON          | token.cron    |
 | CTS           | cryptovgscts  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
