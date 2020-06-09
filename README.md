@@ -66,12 +66,14 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DEFI          | defind.io     |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
+| DF            | issue.newdex  |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | ETH           | issue.newdex  |
+| ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
 | EOSDAC        | eosdactokens  |
@@ -101,6 +103,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | LUME          | lumetokenctr  |
 | MAIL          | d.mail        |
 | MEV           | eosvegascoin  |
+| MNT           | issue.newdex  |
 | NEB           | nebulatokenn  |
 | NFD           | nofoundation  |
 | NFX           | effecttokens  |
@@ -122,6 +125,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ROCKET        | rocketbattle  |
 | ROJI          | rojirojiroji  |
 | ROR           | roadofrichio  |
+| RRB           | issue.newdex  |
 | SEED          | parslseed123  |
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
@@ -139,6 +143,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | USDT          | issue.newdex  |
 | USN           | danchortoken  |
 | VIG           | vig111111111  |
+| VINX          | issue.newdex  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
