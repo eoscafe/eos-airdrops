@@ -144,6 +144,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | USN           | danchortoken  |
 | VIG           | vig111111111  |
 | VINX          | issue.newdex  |
+| VIGOR         | vigortoken11  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
