@@ -56,6 +56,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
 | CHL           | challengedac  |
+| COMP          | issue.newdex  |
 | CRON          | token.cron    |
 | CTS           | cryptovgscts  |
 | CUSD          | stablecarbon  |
@@ -133,6 +134,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SX            | token.sx      |
 | TOOK          | taketooktook  |
 | TCN           | tcapitalnote  |
+| TMH           | issue.newdex  |
 | TRIV          | triviatokens  |
 | TXT           | trusteamwins  |
 | TRO           | mytreosworld  |
