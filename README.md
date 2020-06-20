@@ -155,5 +155,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | VII           | seventokenio  |
 | GOVRN         | consortiumlv  |
 | LC            | lichangtoken  |
+| BTCUP         | plvtcreaters  |
+| BTCDOWN       | plvtcreaters  |
 
 Thanks to EOS Tribe for procuring logos!
