@@ -157,5 +157,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | LC            | lichangtoken  |
 | BTCUP         | plvtcreaters  |
 | BTCDOWN       | plvtcreaters  |
+| NICEONE       | niceonetoken  |
 
 Thanks to EOS Tribe for procuring logos!
