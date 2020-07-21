@@ -42,6 +42,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | APX           | appicsappics  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
+| BBT           | blockbasetkn  |
 | BG            | bgbgbgbgbgbg  |
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
