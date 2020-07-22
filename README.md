@@ -42,6 +42,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | APX           | appicsappics  |
 | ATD           | eosatidiumio  |
 | ATMOS         | novusphereio  |
+| BBT           | blockbasetkn  |
 | BG            | bgbgbgbgbgbg  |
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
@@ -132,6 +133,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
+| STE           | savethearth1  |
 | SX            | token.sx      |
 | TOOK          | taketooktook  |
 | TCN           | tcapitalnote  |
@@ -158,5 +160,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | LC            | lichangtoken  |
 | BTCUP         | plvtcreaters  |
 | BTCDOWN       | plvtcreaters  |
+| NICEONE       | niceonetoken  |
 
 Thanks to EOS Tribe for procuring logos!
