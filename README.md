@@ -113,6 +113,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
+| OTU           | onetimeutil1  |
 | PAY           | fastecoadmin  |
 | PBTC          | btc.ptokens   |
 | POKER         | eospokercoin  |
