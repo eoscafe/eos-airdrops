@@ -47,6 +47,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
+| BOX           | token.defi    |
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
