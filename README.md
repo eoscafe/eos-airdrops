@@ -163,5 +163,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BTCUP         | plvtcreaters  |
 | BTCDOWN       | plvtcreaters  |
 | NICEONE       | niceonetoken  |
+| PUML          | pumlhealthio  |
 
 Thanks to EOS Tribe for procuring logos!
