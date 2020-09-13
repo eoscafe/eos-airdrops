@@ -47,6 +47,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
+| BLUE          | visionfintec  |
 | BOX           | token.defi    |
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
@@ -92,9 +93,11 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
+| GREEN         | visionfintec  |
 | HVT           | hirevibeshvt  |
 | PHOTON        | holongwealth  |
 | HORUS         | horustokenio  |
+| INDIGO        | visionfintec  |
 | INF           | infinicoinio  |
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
@@ -115,6 +118,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
+| ORANGE        | visionfintec  |
 | OTU           | onetimeutil1  |
 | PAY           | fastecoadmin  |
 | PBTC          | btc.ptokens   |
@@ -125,6 +129,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PSO           | cryptopesosc  |
 | PUB           | publytoken11  |
 | RAM           | ramtokenmoon  |
+| RED           | visionfintec  |
 | REXNET        | tokensfather  |
 | RIDL          | ridlridlcoin  |
 | ROCKET        | rocketbattle  |
@@ -157,9 +162,11 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | WIZZ          | wizznetwork1  |
 | WORD          | wordtokeneos  |
 | YAS           | yasminttoken  |
+| YELLOW        | visionfintec  |
 | YUPX          | yupyupxtoken  |
 | ZKS           | zkstokensr4u  |
 | VII           | seventokenio  |
+| VIOLET        | visionfintec  |
 | GOVRN         | consortiumlv  |
 | LC            | lichangtoken  |
 | BTCUP         | plvtcreaters  |
