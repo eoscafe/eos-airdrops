@@ -93,6 +93,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
 | HVT           | hirevibeshvt  |
+| HUB           | eoshubtokens  |
 | PHOTON        | holongwealth  |
 | HORUS         | horustokenio  |
 | INF           | infinicoinio  |
