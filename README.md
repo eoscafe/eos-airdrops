@@ -61,6 +61,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | COMP          | issue.newdex  |
 | CRON          | token.cron    |
 | CTS           | cryptovgscts  |
+| CRT           | carrotstoken  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
 | DAI           | etherctokens  |
