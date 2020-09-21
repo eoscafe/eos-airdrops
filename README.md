@@ -141,7 +141,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | STE           | savethearth1  |
 | SX            | token.sx      |
 | TOOK          | taketooktook  |
-| TCN           | tcapitalnote  |
+| TCN           | capitaltatch  |
 | TMH           | issue.newdex  |
 | TRIV          | triviatokens  |
 | TXT           | trusteamwins  |
