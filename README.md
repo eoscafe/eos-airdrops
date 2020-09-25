@@ -62,12 +62,14 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | COMP          | issue.newdex  |
 | CRON          | token.cron    |
 | CTS           | cryptovgscts  |
+| CRT           | carrotstoken  |
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
 | DAI           | etherctokens  |
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DEFI          | defind.io     |
+| DOP           | dolphintoken  |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | DF            | issue.newdex  |
@@ -89,12 +91,12 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
-| FASTBNT       | smarttokens1  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
 | GREEN         | visionfintec  |
 | HVT           | hirevibeshvt  |
+| HUB           | eoshubtokens  |
 | PHOTON        | holongwealth  |
 | HORUS         | horustokenio  |
 | INDIGO        | visionfintec  |
@@ -130,6 +132,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PUB           | publytoken11  |
 | RAM           | ramtokenmoon  |
 | RED           | visionfintec  |
+| RCX           | boatwingtkio  |
 | REXNET        | tokensfather  |
 | RIDL          | ridlridlcoin  |
 | ROCKET        | rocketbattle  |
