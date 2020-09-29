@@ -47,6 +47,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BET           | betdividends  |
 | BEAN          | thebeantoken  |
 | BLACK         | eosblackteam  |
+| BLESS         | godoffinance  |
 | BLUE          | visionfintec  |
 | BOX           | token.defi    |
 | BNT           | bntbntbntbnt  |
