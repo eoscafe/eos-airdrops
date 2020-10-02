@@ -179,5 +179,11 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NICEONE       | niceonetoken  |
 | PUML          | pumlhealthio  |
 | XPR           | eosio.token   |
+| XMT           | xtokens       |
+| XUSDT         | xtokens       |
+| XBTC          | xtokens       |
+| XETH          | xtokens       |
+| XUSDC         | xtokens       |
+| XTUSD         | xtokens       |
 
 Thanks to EOS Tribe for procuring logos!
