@@ -68,6 +68,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CUSD          | stablecarbon  |
 | DAB           | eoscafekorea  |
 | DAI           | etherctokens  |
+| DAD           | dadtoken1111  |
 | DAPP          | dappservices  |
 | DEOS          | thedeosgames  |
 | DEFI          | defind.io     |
