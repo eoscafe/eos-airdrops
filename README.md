@@ -169,7 +169,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | WORD          | wordtokeneos  |
 | YAS           | yasminttoken  |
 | YELLOW        | visionfintec  |
-| YUPX          | yupyupxtoken  |
 | YUP           | token.yup     |
 | ZKS           | zkstokensr4u  |
 | VII           | seventokenio  |
