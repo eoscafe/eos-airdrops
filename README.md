@@ -120,6 +120,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NFD           | nofoundation  |
 | NFX           | effecttokens  |
 | NDX           | newdexissuer  |
+| NOAM          | noamtoken     |
 | NUT           | eosdtnutoken  |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
