@@ -127,6 +127,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | OTU           | onetimeutil1  |
 | PAY           | fastecoadmin  |
 | PBTC          | btc.ptokens   |
+| PETH          | eth.ptokens   |
+| PLTC          | ltc.ptokens   |
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PGL           | prospectorsg  |
