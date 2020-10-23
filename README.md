@@ -192,5 +192,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | XETH          | xtokens       |
 | XUSDC         | xtokens       |
 | XTUSD         | xtokens       |
+| CAT           | eoscatstoken  |
+| FISH          | fisheostoken  |
 
 Thanks to EOS Tribe for procuring logos!
