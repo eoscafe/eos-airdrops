@@ -194,5 +194,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | XTUSD         | xtokens       |
 | CAT           | eoscatstoken  |
 | FISH          | fisheostoken  |
+| RAT           | eosratstoken  |
 
 Thanks to EOS Tribe for procuring logos!
