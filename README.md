@@ -94,6 +94,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EXE           | isoftpartner  |
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
+| FINTEH        | fintehdeploy  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
