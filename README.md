@@ -88,6 +88,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOSDAC        | eosdactokens  |
 | EOSDT         | eosdtsttoken  |
 | EOSUSDT       | evolutiondex  |
+| EOSY          | eosyieldeosy  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
 | EVR           | eosvrtokenss  |
@@ -154,6 +155,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
 | STE           | savethearth1  |
+| SUGAR         | sugartokensb  |
+| SUGARA        | sugartokensa  |
 | SX            | token.sx      |
 | TOOK          | taketooktook  |
 | TCN           | capitaltatch  |
