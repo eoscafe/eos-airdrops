@@ -199,5 +199,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CAT           | eoscatstoken  |
 | FISH          | fisheostoken  |
 | RAT           | eosratstoken  |
+| DECO          | destinytoken  |
 
 Thanks to EOS Tribe for procuring logos!
