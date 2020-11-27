@@ -135,6 +135,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
+| PTERIA        | pteria.ptokens|
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PGL           | prospectorsg  |
