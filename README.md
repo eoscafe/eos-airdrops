@@ -78,6 +78,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DF            | issue.newdex  |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
+| ECOIN         | ecoin1nation  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
@@ -135,6 +136,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
+| PTERIA        | pteria.ptokens|
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
 | PGL           | prospectorsg  |
