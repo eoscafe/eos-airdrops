@@ -150,6 +150,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | RIDL          | ridlridlcoin  |
 | ROCKET        | rocketbattle  |
 | ROJI          | rojirojiroji  |
+| ROM           | issue.rom     |
 | ROR           | roadofrichio  |
 | RRB           | issue.newdex  |
 | SEED          | parslseed123  |
