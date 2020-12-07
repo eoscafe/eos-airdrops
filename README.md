@@ -124,6 +124,12 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | NFX           | effecttokens  |
 | NDX           | newdexissuer  |
 | NUT           | eosdtnutoken  |
+| OBTC          | core.ogx      |
+| ODOT          | core.ogx      |
+| OEOS          | core.ogx      |
+| OETH          | core.ogx      |
+| OTRX          | core.ogx      |
+| OUSD          | core.ogx      |
 | OCT           | octtothemoon  |
 | ONE           | oneplaytoken  |
 | ORANGE        | visionfintec  |
