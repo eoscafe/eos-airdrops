@@ -142,6 +142,20 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
+| PBAL          | bal.ptokens   |
+| PBAND         | band.ptokens  |
+| PCOMP         | comp.ptokens  |
+| PSNX          | snx.ptokens   |
+| PUNI          | uni.ptokens   |
+| PANT          | ant.ptokens   |
+| PBAT          | bat.ptokens   |
+| PDAI          | dai.ptokens   |
+| PLRC          | lrc.ptokens   |
+| POMG          | omg.ptokens   |
+| PPNK          | pnk.ptokens   |
+| PREP          | rep.ptokens   |
+| PUOS          | uos.ptokens   |
+| PZRX          | zrx.ptokens   |
 | PTERIA        | pteria.ptokens|
 | POKER         | eospokercoin  |
 | POOR          | poormantoken  |
