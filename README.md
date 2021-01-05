@@ -37,6 +37,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ------------- |:-------------:|
 | ADD           | eosadddddddd  |
 | ADE           | cadeositoken  |
+| AETHER        | e.rplanet     |
 | ANT           | antestacc111  |
 | ANTE          | eosnowbpower  |
 | ANX           | anoxanoxanox  |
@@ -117,6 +118,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | LLG           | llgonebtotal  |
 | LUME          | lumetokenctr  |
 | MAIL          | d.mail        |
+| MANA          | tribalbooksm  |
 | MEV           | eosvegascoin  |
 | MNT           | issue.newdex  |
 | NEB           | nebulatokenn  |
