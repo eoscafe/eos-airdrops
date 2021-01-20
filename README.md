@@ -22,7 +22,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 
 | Chain         | Name          |
 | ------------- |:-------------:|
-| Mainnet       | eos           |
+| EOS           | eos           |
 | Worbli        | worbli        |
 | Wax           | wax           |
 | BOS           | bos           |
@@ -225,5 +225,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FISH          | fisheostoken  |
 | RAT           | eosratstoken  |
 | DECO          | destinytoken  |
+| LSCL          | token.local   |
 
 Thanks to EOS Tribe for procuring logos!
