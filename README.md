@@ -226,5 +226,11 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | RAT           | eosratstoken  |
 | DECO          | destinytoken  |
 | LSCL          | token.local   |
+| USDCASH       | token.pcash   |
+| RUBCASH       | token.pcash   |
+| UAHCASH       | token.pcash   |
+| LIRUMOW       | token.list    |
+| LIUAIEV       | token.list    |
+
 
 Thanks to EOS Tribe for procuring logos!
