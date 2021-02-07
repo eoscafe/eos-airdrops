@@ -231,6 +231,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | UAHCASH       | token.pcash   |
 | LIRUMOW       | token.list    |
 | LIUAIEV       | token.list    |
+| WSB           | wallstrtbets  |
 
 
 Thanks to EOS Tribe for procuring logos!
