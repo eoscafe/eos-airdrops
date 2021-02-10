@@ -177,6 +177,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ROR           | roadofrichio  |
 | RRB           | issue.newdex  |
 | SEED          | parslseed123  |
+| SENSE         | sensegenesis  |
 | SHC           | sprtshubcoin  |
 | SLT           | nblabtokenss  |
 | SNEB          | nebulatokenn  |
@@ -220,6 +221,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | XUSDT         | xtokens       |
 | XBTC          | xtokens       |
 | XETH          | xtokens       |
+| XSENSE        | sense         |
 | XUSDC         | xtokens       |
 | XTUSD         | xtokens       |
 | CAT           | eoscatstoken  |
