@@ -74,6 +74,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DEOS          | thedeosgames  |
 | DEFI          | defind.io     |
 | DOP           | dolphintoken  |
+| DOWN          | elliottkelly  |
 | DICE          | betdicetoken  |
 | DIG           | digcoinsmine  |
 | DF            | issue.newdex  |
