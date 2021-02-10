@@ -184,6 +184,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SUGAR         | sugartokensb  |
 | SUGARA        | sugartokensa  |
 | SX            | token.sx      |
+| SXEOS         | token.sx      |
+| SXUSDT        | token.sx      |
+| SXCPU         | token.sx      |
 | TOOK          | taketooktook  |
 | TCN           | capitaltatch  |
 | TMH           | issue.newdex  |
