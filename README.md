@@ -142,6 +142,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PETH          | eth.ptokens   |
 | PLTC          | ltc.ptokens   |
 | PMKR          | mkr.ptokens   |
+| POCKET        | tokencrafter  |
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
