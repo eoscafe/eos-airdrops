@@ -237,6 +237,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | UAHCASH       | token.pcash   |
 | LIRUMOW       | token.list    |
 | LIUAIEV       | token.list    |
+| PURPLE       | purplepurple    |
 
 
 Thanks to EOS Tribe for procuring logos!
