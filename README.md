@@ -240,6 +240,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | UAHCASH       | token.pcash   |
 | LIRUMOW       | token.list    |
 | LIUAIEV       | token.list    |
-
+| REWA          | wepevt3petjr  |
 
 Thanks to EOS Tribe for procuring logos!
