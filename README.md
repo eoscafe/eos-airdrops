@@ -192,6 +192,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SXA           | lptoken.sx    |
 | SXB           | lptoken.sx    |
 | SXC           | lptoken.sx    |
+| SXD           | lptoken.sx    |
 | TOOK          | taketooktook  |
 | TCN           | capitaltatch  |
 | TMH           | issue.newdex  |
