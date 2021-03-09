@@ -85,6 +85,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | ETH           | issue.newdex  |
+| ETH           | asset.dtoken  |
 | ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
@@ -142,6 +143,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PETH          | eth.ptokens   |
 | PLTC          | ltc.ptokens   |
 | PMKR          | mkr.ptokens   |
+| POCKET        | tokencrafter  |
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
@@ -184,10 +186,13 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | STE           | savethearth1  |
 | SUGAR         | sugartokensb  |
 | SUGARA        | sugartokensa  |
-| SX            | token.sx      |
 | SXEOS         | token.sx      |
 | SXUSDT        | token.sx      |
 | SXCPU         | token.sx      |
+| SXA           | lptoken.sx    |
+| SXB           | lptoken.sx    |
+| SXC           | lptoken.sx    |
+| SXD           | lptoken.sx    |
 | TOOK          | taketooktook  |
 | TCN           | capitaltatch  |
 | TMH           | issue.newdex  |
