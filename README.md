@@ -85,6 +85,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | ETH           | issue.newdex  |
+| ETH           | asset.dtoken  |
 | ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
