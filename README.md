@@ -113,6 +113,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
+| JOKER         | joker.eos     |
 | KARMA         | theonlykarma  |
 | KARMA         | therealkarma  |
 | KROWN         | krowntoken    |
