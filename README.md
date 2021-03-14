@@ -92,6 +92,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOSDAC        | eosdactokens  |
 | EOSDT         | eosdtsttoken  |
 | EOSUSDT       | evolutiondex  |
+| EUSDC         | eoseusdtoken  |
+| EUSDS         | eoseusdtoken  |
+| EUSDB         | eoseusdtoken  |
 | EOSY          | eosyieldeosy  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
