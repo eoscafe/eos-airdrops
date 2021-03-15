@@ -246,6 +246,10 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | UAHCASH       | token.pcash   |
 | LIRUMOW       | token.list    |
 | LIUAIEV       | token.list    |
+| PURPLE        | purplepurple  |
+| BLU           | blublublublu  |
+| BLUX          | bluxbluxblux  |
+
 
 
 Thanks to EOS Tribe for procuring logos!
