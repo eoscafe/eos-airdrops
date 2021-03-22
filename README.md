@@ -107,6 +107,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
 | GREEN         | visionfintec  |
+| HOO           | ihooeostoken  |
 | HVT           | hirevibeshvt  |
 | HUB           | eoshubtokens  |
 | PHOTON        | holongwealth  |
