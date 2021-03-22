@@ -251,6 +251,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PURPLE        | purplepurple  |
 | BLU           | blublublublu  |
 | BLUX          | bluxbluxblux  |
+| CETF          | cet.f         |
+| EOSETF        | cet.f         |
 
 
 
