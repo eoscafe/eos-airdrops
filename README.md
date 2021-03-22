@@ -80,6 +80,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DF            | issue.newdex  |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
+| ECRV          | ecurvetoken1  |
 | ECOIN         | ecoin1nation  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
