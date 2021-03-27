@@ -52,6 +52,14 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BLESS         | godoffinance  |
 | BLUE          | visionfintec  |
 | BOX           | token.defi    |
+| BBOX          | btoken.defi   |
+| BEOS          | btoken.defi   |
+| BEUSDC        | btoken.defi   |
+| BNDX          | btoken.defi   |
+| BPBTC         | btoken.defi   |
+| BPETH         | btoken.defi   |
+| BUSDT         | btoken.defi   |
+| BUSN          | btoken.defi   |
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
