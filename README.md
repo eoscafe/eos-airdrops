@@ -112,6 +112,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
 | FINTEH        | fintehdeploy  |
+| FREEOS        | freeos333333  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
