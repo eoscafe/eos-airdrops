@@ -52,6 +52,14 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BLESS         | godoffinance  |
 | BLUE          | visionfintec  |
 | BOX           | token.defi    |
+| BBOX          | btoken.defi   |
+| BEOS          | btoken.defi   |
+| BEUSDC        | btoken.defi   |
+| BNDX          | btoken.defi   |
+| BPBTC         | btoken.defi   |
+| BPETH         | btoken.defi   |
+| BUSDT         | btoken.defi   |
+| BUSN          | btoken.defi   |
 | BNT           | bntbntbntbnt  |
 | BNTEOS        | bnt2eosrelay  |
 | BNTUSDT       | bancorr11232  |
@@ -80,17 +88,24 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | DF            | issue.newdex  |
 | EBTC          | bitpietokens  |
 | ECASH         | horustokenio  |
+| ECRV          | ecurvetoken1  |
 | ECOIN         | ecoin1nation  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
 | EETH          | ethsidechain  |
 | ETH           | issue.newdex  |
+| ETH           | asset.dtoken  |
 | ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
+| EOSC          | eosceostoken  |
+| EOSB          | eosceostoken  |
 | EOSDAC        | eosdactokens  |
 | EOSDT         | eosdtsttoken  |
 | EOSUSDT       | evolutiondex  |
+| EUSDC         | eoseusdtoken  |
+| EUSDS         | eoseusdtoken  |
+| EUSDB         | eoseusdtoken  |
 | EOSY          | eosyieldeosy  |
 | EOX           | eoxeoxeoxeox  |
 | ESB           | esbcointoken  |
@@ -99,10 +114,12 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | FAIR          | faireostoken  |
 | FAST          | fastecoadmin  |
 | FINTEH        | fintehdeploy  |
+| FREEOS        | freeos333333  |
 | FYRE          | uxfyretoken1  |
 | GAMBLR        | gamblrtokens  |
 | GL            | token.gl      |
 | GREEN         | visionfintec  |
+| HOO           | ihooeostoken  |
 | HVT           | hirevibeshvt  |
 | HUB           | eoshubtokens  |
 | PHOTON        | holongwealth  |
@@ -112,6 +129,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | IPOS          | oo1122334455  |
 | IQ            | everipediaiq  |
 | IRESPO        | irespotokens  |
+| JOKER         | joker.eos     |
 | KARMA         | theonlykarma  |
 | KARMA         | therealkarma  |
 | KROWN         | krowntoken    |
@@ -142,6 +160,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | PETH          | eth.ptokens   |
 | PLTC          | ltc.ptokens   |
 | PMKR          | mkr.ptokens   |
+| POCKET        | tokencrafter  |
 | PYFI          | yfi.ptokens   |
 | PLINK         | link.ptokens  |
 | PNT           | pnt.ptokens   |
@@ -184,10 +203,13 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | STE           | savethearth1  |
 | SUGAR         | sugartokensb  |
 | SUGARA        | sugartokensa  |
-| SX            | token.sx      |
 | SXEOS         | token.sx      |
 | SXUSDT        | token.sx      |
 | SXCPU         | token.sx      |
+| SXA           | lptoken.sx    |
+| SXB           | lptoken.sx    |
+| SXC           | lptoken.sx    |
+| SXD           | lptoken.sx    |
 | TOOK          | taketooktook  |
 | TCN           | capitaltatch  |
 | TMH           | issue.newdex  |
@@ -237,6 +259,12 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | UAHCASH       | token.pcash   |
 | LIRUMOW       | token.list    |
 | LIUAIEV       | token.list    |
+| PURPLE        | purplepurple  |
+| BLU           | blublublublu  |
+| BLUX          | bluxbluxblux  |
+| CETF          | cet.f         |
+| EOSETF        | cet.f         |
+
 
 
 Thanks to EOS Tribe for procuring logos!
