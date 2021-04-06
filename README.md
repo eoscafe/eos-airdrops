@@ -264,7 +264,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | BLUX          | bluxbluxblux  |
 | CETF          | cet.f         |
 | EOSETF        | cet.f         |
-
+| SEEDS         | token.seeds   |
 
 
 Thanks to EOS Tribe for procuring logos!
