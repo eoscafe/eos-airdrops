@@ -228,6 +228,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | VOID          | onessusblock  |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
+| WCX           | boatwingtkio  |
 | WORD          | wordtokeneos  |
 | YAS           | yasminttoken  |
 | YELLOW        | visionfintec  |
