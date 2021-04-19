@@ -266,6 +266,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | CETF          | cet.f         |
 | EOSETF        | cet.f         |
 | SEEDS         | token.seeds   |
+| SBET          | sportbetsbet  |
 
 
 Thanks to EOS Tribe for procuring logos!
