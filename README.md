@@ -132,6 +132,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | JOKER         | joker.eos     |
 | KARMA         | theonlykarma  |
 | KARMA         | therealkarma  |
+| KBUCKS        | kolobokbucks  |
 | KROWN         | krowntoken    |
 | LKG           | luckygotoken  |
 | LLG           | llgonebtotal  |
