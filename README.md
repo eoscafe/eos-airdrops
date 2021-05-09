@@ -67,6 +67,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ETHBNT        | ethbntethbnt  |
 | BOID          | boidcomtoken  |
 | CARMEL        | carmeltokens  |
+| CAPON         | e.rplanet     |
 | CET           | eosiochaince  |
 | CHEX          | chexchexchex  |
 | CHL           | challengedac  |
@@ -98,6 +99,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
+| ENEFT         | e.rplanet     |
 | EOSC          | eosceostoken  |
 | EOSB          | eosceostoken  |
 | EOSDAC        | eosdactokens  |
@@ -227,6 +229,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | VINX          | issue.newdex  |
 | VIGOR         | vigortoken11  |
 | VOID          | onessusblock  |
+| WAXON         | e.rplanet     |
+| WECAN         | e.rplanet     |
 | WECASH        | weosservices  |
 | WIZZ          | wizznetwork1  |
 | WCX           | boatwingtkio  |
