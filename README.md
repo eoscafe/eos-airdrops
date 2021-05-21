@@ -273,6 +273,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOSETF        | cet.f         |
 | SEEDS         | token.seeds   |
 | SBET          | sportbetsbet  |
+| START         | token.start   |
+| SWAP          | swap.swaps    |
+| TLOSD         | tokens.swaps  |
 
 
 Thanks to EOS Tribe for procuring logos!
