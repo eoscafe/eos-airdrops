@@ -93,6 +93,7 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ECOIN         | ecoin1nation  |
 | ECOIN         | ecointoken12  |
 | EDNA          | ednazztokens  |
+| EMOON         | emoonnetwork  |
 | EETH          | ethsidechain  |
 | ETH           | issue.newdex  |
 | ETH           | asset.dtoken  |
