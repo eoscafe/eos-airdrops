@@ -274,5 +274,11 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | SEEDS         | token.seeds   |
 | SBET          | sportbetsbet  |
 | LUCK          | thomashp      |
+| START         | token.start   |
+| SWAP          | swap.swaps    |
+| TLOSD         | tokens.swaps  |
+| ROCKS         | digdougrocks  |
+| SILVER        | silversilver  |
+| GOLD          | goldgoldgold  |
 
 Thanks to EOS Tribe for procuring logos!
