@@ -273,6 +273,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | EOSETF        | cet.f         |
 | SEEDS         | token.seeds   |
 | SBET          | sportbetsbet  |
+| ROCKS         | digdougrocks  |
+| SILVER        | silversilver  |
+| GOLD          | goldgoldgold  |
 
 
 Thanks to EOS Tribe for procuring logos!
