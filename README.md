@@ -276,6 +276,9 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | START         | token.start   |
 | SWAP          | swap.swaps    |
 | TLOSD         | tokens.swaps  |
+| ROCKS         | digdougrocks  |
+| SILVER        | silversilver  |
+| GOLD          | goldgoldgold  |
 
 
 Thanks to EOS Tribe for procuring logos!
