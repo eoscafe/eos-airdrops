@@ -100,6 +100,8 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ETHFI         | issue.newdex  |
 | EFX           | effecttokens  |
 | EIDOS         | eidosonecoin  |
+| EBOX          | euboxtokenxx  |
+| EKEY          | euboxtokenxx  |
 | ENEFT         | e.rplanet     |
 | EOSC          | eosceostoken  |
 | EOSB          | eosceostoken  |
