@@ -282,5 +282,6 @@ For more useful content, please vote for EOS Cafe Block (**eoscafeblock**)
 | ROCKS         | digdougrocks  |
 | SILVER        | silversilver  |
 | GOLD          | goldgoldgold  |
+| PIXEL         | thomashp      |
 
 Thanks to EOS Tribe for procuring logos!
