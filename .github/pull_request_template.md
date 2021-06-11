@@ -14,4 +14,3 @@
 ```
 
 - [ ] Add token logo `*.png` to [`./logos`](./logos) folder
-- [ ] Update `README.md` with **Symbol** & **Contract Name**
