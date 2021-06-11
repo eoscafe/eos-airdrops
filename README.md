@@ -1,5 +1,3 @@
-# 🚀 Coin List  🚀
-
 ## How to add a token?
 
 Make a pull request with the following changes:
