@@ -6,11 +6,11 @@ Make a pull request with the following changes:
 
 ```json
 {
-    "name": "<NAME>",
-    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png",
-    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png",
-    "symbol": "<SYMBOL>",
-    "account": "<CONTRACT NAME>",
+    "name": "eos",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/eos.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/eos.png",
+    "symbol": "eos",
+    "account": "bimbs2.ftw",
     "chain": "eos"
 }
 ```
