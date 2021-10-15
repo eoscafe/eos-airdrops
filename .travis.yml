@@ -1,0 +1,8 @@
+language: node_js
+sudo: false
+branches:
+  only:
+    - /(.*)/   # test all branches
+before_script:
+  - npm install -g jsonlint
+script: jsonlint -q tokens.json
