@@ -36,15 +36,12 @@ test('missing logo file', async () => {
 test('logo file not associated with a token', async () => {
     const logos = new Set();
     for ( const token of tokens ) {
-        logos.add(token.logo.replace(BASE_URL, '').toLocaleLowerCase())
-        logos.add(token.logo_lg.replace(BASE_URL, '').toLocaleLowerCase())
+        logos.add(token.logo.replace(BASE_URL, ''))
+        logos.add(token.logo_lg.replace(BASE_URL, ''))
     }
 
     const files = fs.readdirSync('./logos');
     for ( const file of files ) {
-        // if ( !logos.has(file.toLocaleLowerCase())) {
-        //     fs.rmSync(`./logos/${file}`)
-        // }
-        expect(logos.has(file.toLocaleLowerCase())).toBe(true)
+        expect(logos.has(file)).toBe(true)
     }
 })
