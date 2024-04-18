@@ -45,3 +45,15 @@ test('logo file not associated with a token', async () => {
         expect(logos.has(file)).toBe(true)
     }
 })
+
+test('must be valid account name', async () => {
+    for ( const token of tokens ) {
+        expect(Name.from(token.account).toString()).toBe(token.account)
+    }
+})
+
+test('must be valid symbol', async () => {
+    for ( const token of tokens ) {
+        expect(Asset.SymbolCode.from(token.symbol).toString()).toBe(token.symbol)
+    }
+})
