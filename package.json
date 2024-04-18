@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "scripts": {
+        "test": "bun test"
+    },
+    "dependencies": {
+        "@wharfkit/antelope": "^1",
+        "@wharfkit/contract": "^1"
+    },
+    "devDependencies": {
+        "@types/bun": "latest",
+        "typescript": "latest"
+    }
+}

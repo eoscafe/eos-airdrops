@@ -15,4 +15,4 @@ Make a pull request with the following changes:
 }
 ```
 
-2. Add token logo `*.png` to [`./logos`](./logos) folder
+2. Add token logo `*.png` or `*.jpg` to [`./logos`](./logos) folder
