@@ -42,6 +42,7 @@ test('logo file not associated with a token', async () => {
 
     const files = fs.readdirSync('./logos');
     for ( const file of files ) {
+        if ( file === ".DS_Store" ) continue;
         expect(logos.has(file)).toBe(true)
     }
 })
@@ -55,5 +56,17 @@ test('must be valid account name', async () => {
 test('must be valid symbol', async () => {
     for ( const token of tokens ) {
         expect(Asset.SymbolCode.from(token.symbol).toString()).toBe(token.symbol)
+    }
+})
+
+test('token name must be sorted alphabetically', async () => {
+    let last = '';
+    for ( const token of tokens ) {
+        if (last === '') {
+            last = token.name
+            continue
+        }
+        expect(token.name[0].toLocaleLowerCase() >= last[0].toLocaleLowerCase()).toBe(true)
+        last = token.name
     }
 })
