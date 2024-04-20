@@ -4,9 +4,9 @@ import { sleep } from "bun";
 
 let start = false;
 for ( const token of tokens) {
-    const client = new APIClient({url: `https://${token.chain}.api.eosnation.io`});
-    if ( token.chain === "proton" ) continue;
-    if ( token.chain === "eos" ) continue;
+    const client = new APIClient({url: `https://${token.chain}.greymass.com`});
+    // if ( token.chain !== "proton" ) continue;
+    // if ( token.chain === "eos" ) continue;
     // if ( token.symbol == "EDNA" ) start = true;
     // if ( !start ) continue;
     try {
