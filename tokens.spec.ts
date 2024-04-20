@@ -43,6 +43,9 @@ test('logo file not associated with a token', async () => {
     const files = fs.readdirSync('./logos');
     for ( const file of files ) {
         if ( file === ".DS_Store" ) continue;
+        // if ( !logos.has(file) ) {
+        //     fs.rmSync(`./logos/${file}`)
+        // }
         expect(logos.has(file)).toBe(true)
     }
 })
@@ -70,3 +73,5 @@ test('token name must be sorted alphabetically', async () => {
         last = token.name
     }
 })
+
+// no duplicate tokens
