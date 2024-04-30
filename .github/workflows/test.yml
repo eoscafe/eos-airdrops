@@ -1,6 +1,6 @@
 name: Bun Test
 
-on: push
+on: [push, fork]
 
 jobs:
   build-and-test:
