@@ -46,6 +46,7 @@ test('logo file not associated with a token', async () => {
         // if ( !logos.has(file) ) {
         //     fs.rmSync(`./logos/${file}`)
         // }
+        // console.log(file)
         expect(logos.has(file)).toBe(true)
     }
 })
