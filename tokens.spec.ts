@@ -43,9 +43,10 @@ test('logo file not associated with a token', async () => {
     const files = fs.readdirSync('./logos');
     for ( const file of files ) {
         if ( file === ".DS_Store" ) continue;
-        // if ( !logos.has(file) ) {
-        //     fs.rmSync(`./logos/${file}`)
-        // }
+        if ( !logos.has(file) ) {
+            console.log("removed file:", file)
+            fs.rmSync(`./logos/${file}`)
+        }
         expect(logos.has(file)).toBe(true)
     }
 })
@@ -74,4 +75,12 @@ test('token name must be sorted alphabetically', async () => {
     }
 })
 
-// no duplicate tokens
+test('no duplicate tokens', async () => {
+    let last = '';
+    for ( const token of tokens ) {
+        const token_key = `${token.chain},${token.symbol},${token.account}`;
+        if ( last == token_key ) console.log(last, token_key)
+        expect(last != token_key).toBe(true)
+        last = token_key
+    }
+})
