@@ -1,6 +1,6 @@
 import tokens from "./tokens.json"
-import {Asset, Int64, Name} from '@wharfkit/antelope'
-import {describe, expect, test} from 'bun:test'
+import {Asset, Name} from '@wharfkit/antelope'
+import {expect, test} from 'bun:test'
 import fs from "fs";
 
 const BASE_URL = 'https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/';
