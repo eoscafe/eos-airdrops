@@ -1,0 +1,226 @@
+{
+    {
+        "name": "ASSETS",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/assets.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/assets.png",
+        "symbol": "ASSETS",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "BANK",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bank.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bank.png",
+        "symbol": "BANK",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "BIPOT",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bipot.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bipot.png",
+        "symbol": "BIPOT",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "BOCO",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/boco.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/boco.png",
+        "symbol": "BOCO",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "BOPIXBO",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bopixbo.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bopixbo.png",
+        "symbol": "BOPIXBO",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "BPVALUE",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bpvalue.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/bpvalue.png",
+        "symbol": "BPVALUE",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "COFFEE",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/coffee.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/coffee.png",
+        "symbol": "COFFEE",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "COLLECT",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/collect.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/collect.png",
+        "symbol": "COLLECT",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "DEBTS",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/debts.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/debts.png",
+        "symbol": "DEBTS",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "DOOR",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/door.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/door.png",
+        "symbol": "DOOR",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "ENERGY",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/energy.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/energy.png",
+        "symbol": "ENERGY",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "FOOD",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/food.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/food.png",
+        "symbol": "FOOD",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "GOLD",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/gold.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/gold.png",
+        "symbol": "GOLD",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "KEY",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/key.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/key.png",
+        "symbol": "KEY",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "MEPOT",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/mepot.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/mepot.png",
+        "symbol": "MEPOT",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "METAL",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/metal.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/metal.png",
+        "symbol": "METAL",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "NONE",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/none.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/none.png",
+        "symbol": "NONE",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "PAARMY",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/paarmy.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/paarmy.png",
+        "symbol": "PAARMY",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "PAPER",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/paper.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/paper.png",
+        "symbol": "PAPER",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "PEOPLE",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/people.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/people.png",
+        "symbol": "PEOPLE",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "ROARMY",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/roarmy.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/roarmy.png",
+        "symbol": "ROARMY",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "ROCK",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/rock.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/rock.png",
+        "symbol": "ROCK",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "SCARMY",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/scarmy.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/scarmy.png",
+        "symbol": "SCARMY",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "SCISSOR",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/scissor.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/scissor.png",
+        "symbol": "SCISSOR",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "SMPOT",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/smpot.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/smpot.png",
+        "symbol": "SMPOT",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "STONE",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/stone.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/stone.png",
+        "symbol": "STONE",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "TRUST",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trust.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/trust.png",
+        "symbol": "TRUST",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    },
+    {
+        "name": "WOOD",
+        "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/wood.png",
+        "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/wood.png",
+        "symbol": "WOOD",
+        "account": "bobocoin.gm",
+        "chain": "wax"
+    }
+  }
