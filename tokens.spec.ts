@@ -3,6 +3,7 @@ import {Asset, Name} from '@wharfkit/antelope'
 import {expect, test} from 'bun:test'
 import fs from "fs";
 
+// Token-specific values
 const BASE_URL = 'https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/';
 const CHAINS = ["eos", "telos", "wax", "proton"];
 
@@ -28,6 +29,7 @@ test('must be valid chain', async () => {
 
 test('missing logo file', async () => {
     for ( const token of tokens ) {
+        // Check if the logo files exist locally
         expect(fs.existsSync(`./logos/${token.logo.replace(BASE_URL, '')}`)).toBe(true)
         expect(fs.existsSync(`./logos/${token.logo_lg.replace(BASE_URL, '')}`)).toBe(true)
     }
@@ -42,12 +44,12 @@ test('logo file not associated with a token', async () => {
 
     const files = fs.readdirSync('./logos');
     for ( const file of files ) {
-        if ( file === ".DS_Store" ) continue;
+        if ( file === ".DS_Store" ) continue;  // Skip system-specific files
         if ( !logos.has(file) ) {
             console.log("removed file:", file)
             fs.rmSync(`./logos/${file}`)
         }
-        expect(logos.has(file)).toBe(true)
+        expect(logos.has(file)).toBe(true) // Ensure logos are properly linked
     }
 })
 
@@ -70,6 +72,7 @@ test('token name must be sorted alphabetically', async () => {
             last = token.name
             continue
         }
+        // Ensure that token names are sorted alphabetically
         expect(token.name[0].toLocaleLowerCase() >= last[0].toLocaleLowerCase()).toBe(true)
         last = token.name
     }
@@ -79,7 +82,8 @@ test('no duplicate tokens', async () => {
     let last = '';
     for ( const token of tokens ) {
         const token_key = `${token.chain},${token.symbol},${token.account}`;
-        if ( last == token_key ) console.log(last, token_key)
+        // Ensure there are no duplicate tokens based on chain, symbol, and account
+        if ( last === token_key ) console.log(last, token_key)
         expect(last != token_key).toBe(true)
         last = token_key
     }
