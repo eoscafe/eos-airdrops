@@ -2,7 +2,8 @@
 
 Make a pull request with the following changes:
 
-- 1. Add metadata to [`tokens.json`](tokens.json)
+-   1. Add metadata to [`tokens.json`](tokens.json)
+       Please add a single token per pull request, otherwise test will fail.
 
 ```json
 {
@@ -15,13 +16,14 @@ Make a pull request with the following changes:
 }
 ```
 
-- 2. Add token logo `*.png` or `*.jpg` to [`./logos`](./logos) folder
+-   2. Add token logo `*.png` or `*.jpg` to [`./logos`](./logos) folder
 
-- 3. Supported chains:
-  - `eos`
-  - `telos`
-  - `wax`
-  - `proton`
+-   3. Supported chains:
 
-- 4. Token `name` must be sorted alphabetically in `tokens.json`
-- 5. logo URL must start with `https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png`
+    -   `eos`
+    -   `telos`
+    -   `wax`
+    -   `proton`
+
+-   4. Token `name` must be sorted alphabetically in `tokens.json`
+-   5. logo URL must start with `https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/<SYMBOL>.png`
